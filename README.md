@@ -8,9 +8,17 @@ Done By:
 * Ketan Sai Vemuri (Student ID:700746604)
 
 #Results:
-# User Profile Page
-<img src="./resources/UserProfile.jpg">
+# Analysis of Model Performance
+<img src="./results/Models.png">
 
+# Choosing the Model
+<img src="./results/Sorted.png">
+
+# Actual Price and Predicted Price
+<img src="./results/Actual Vs Predicted.png">
+
+# Regular Plot For Actual Price Vs Predicted Price
+<img src="./results/regplot.png">
 
 # Video Explanation of the project:
 
