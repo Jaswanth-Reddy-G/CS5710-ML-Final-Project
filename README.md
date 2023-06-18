@@ -7,6 +7,11 @@ Done By:
 * Berlin Bino Bright Christel Pappa (Student ID:700741472)
 * Ketan Sai Vemuri (Student ID:700746604)
 
+#Results:
+# User Profile Page
+<img src="./resources/UserProfile.jpg">
+
+
 # Video Explanation of the project:
 
 * click here [https://drive.google.com/file/d/1mTRkWp_WsjGu8XRDzP2y3OgcX6iiL5iw/view?usp=sharing]
