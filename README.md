@@ -7,7 +7,7 @@ Done By:
 * Berlin Bino Bright Christel Pappa (Student ID:700741472)
 * Ketan Sai Vemuri (Student ID:700746604)
 
-#Results:
+# Results:
 # Analysis of Model Performance
 <img src="./results/Models.png">
 
